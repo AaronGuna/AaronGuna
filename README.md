@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on exciting projects and connect with fellow tech enthusiasts.
 - 📫 How to reach me: 
   - Email: gunawara@sheridancollege.ca
-  - LinkedIn: [Aaron Gunawardena](linkedin.com/in/aaron-gunawardena-b1637921a/)
   - Phone: (416) 857-2328
 
 <!---
