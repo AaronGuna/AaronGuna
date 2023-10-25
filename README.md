@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aaron Gunawardena
 - 👀 I’m interested in programming, user interface design, web development, and more.
 - 🌱 I’m currently learning and expanding my skills in various tech fields.
-- 💞️ I’m looking to collaborate on exciting projects and connect with fellow tech enthusiasts.
+- 🧳 I’m looking to collaborate on exciting projects and connect with fellow tech enthusiasts.
 - 📫 How to reach me: 
   - Email: gunawara@sheridancollege.ca
   - Phone: (416) 857-2328
